@@ -1,5 +1,4 @@
-# Driver-Drowsiness-Detection  [![Detecting Driver Drowsiness ...](https://images.openai.com/thumbnails/495a5e4f394ec1c2506d676f44ffbb09.png)](https://www.mdpi.com/2076-3417/11/18/8441)
-
+# Driver-Drowsiness-Detection  
 Certainly! Based on the contents of your GitHub repository [Vishnu-yadav-bot/Driver-Drowsiness-Detection](https://github.com/Vishnu-yadav-bot/Driver-Drowsiness-Detection), here's an enhanced and professional `README.md` description tailored to your project:
 
 ---
